@@ -3,5 +3,5 @@
   <version>1.2.0.0</version>
   <url>https://github.com/FearlessNite345/SpaceTracker/releases/download/1.2.0.0/SpaceTracker_Portable.zip</url>
   <changelog>https://github.com/FearlessNite345/SpaceTracker/releases</changelog>
-  <mandatory>false</mandatory>
+  <mandatory>true</mandatory>
 </item>
